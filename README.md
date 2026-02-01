@@ -13,8 +13,8 @@ A personal portfolio website showcasing my professional profile, skills, and exp
 - Mobile-friendly responsive layout
 - Deployed with Netlify and CI/CD via GitHub
 
-## Live Demo
-🔗 nk-qa-portfolio.netlify.app
+Live Portfolio:  
+🔗 https://nk-qa-portfolio.netlify.app
 
 ## Author
 **Naveen Kumar**  
