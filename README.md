@@ -14,7 +14,7 @@ A personal portfolio website showcasing my professional profile, skills, and exp
 - Deployed with Netlify and CI/CD via GitHub
 
 ## Live Demo
-🔗 https://subtle-parfait-df490f.netlify.app
+🔗 nk-qa-portfolio.netlify.app
 
 ## Author
 **Naveen Kumar**  
